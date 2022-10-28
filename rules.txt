@@ -14,7 +14,7 @@ jetbrains.com
 google.com
 google.dev
 google
-gstatic.com
+gstatic
 notion.so
 notion.site
 amazonaws.com
