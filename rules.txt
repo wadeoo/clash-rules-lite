@@ -10,6 +10,7 @@ geeksforgeeks.org
 gravatar.com
 wikipedia.org
 live.com
+libgen.rs
 jetbrains.com
 google.com
 google.dev
