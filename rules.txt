@@ -74,4 +74,5 @@ typora.io
 typingclub.com
 tablesgenerator.com
 reddit
+redd
 reddit.com
