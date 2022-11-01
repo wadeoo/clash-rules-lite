@@ -22,6 +22,7 @@ intercom.io
 stackoverflow.com
 hypothes.is
 facebook.com
+fbcdn.net
 instagram.com
 whatsapp.com
 youtube.com
@@ -73,7 +74,5 @@ doubleclick.net
 typora.io
 typingclub.com
 tablesgenerator.com
-reddit
-redd
 reddit.com
 repo.packagist.org
