@@ -76,3 +76,4 @@ tablesgenerator.com
 reddit
 redd
 reddit.com
+repo.packagist.org
