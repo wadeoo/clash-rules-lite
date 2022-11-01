@@ -76,3 +76,4 @@ typingclub.com
 tablesgenerator.com
 reddit.com
 repo.packagist.org
+wallhaven.com
